@@ -1,1 +1,2 @@
-# el-s-mod
+# el's mod
+my balatro mod
